@@ -1,0 +1,47 @@
+html, body{
+    height: 100vh;
+    background-image: url(wishWeekDesign.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow-x: hidden;
+    padding: 0px;
+    margin: 0px;
+}
+td, th{
+    border: solid;
+    border-color: black;
+}
+
+img{
+    width: 50%;
+}
+
+.han{
+    float: right;
+}
+
+.title{
+    color: aqua;
+    text-align: center;
+}
+
+.table{
+    background-color: blue;
+    color: white;
+    margin-left: 30%;
+    /* border-radius: 2cm; */
+}
+
+.link{
+    margin-right: 50px;
+    color: aqua;
+    float: right;
+}
+
+.paragraph{
+    background-color: aliceblue;
+    color: blue;
+    width: 50%;
+    float: left;
+}
